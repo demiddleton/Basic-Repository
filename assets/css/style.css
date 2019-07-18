@@ -3,13 +3,14 @@ body {
     background-color: #ffffff;
     border-color: #dddddd;
     color: #777777;
+    align-content: center;
 }
 header {
-    
+
 }
 
 nav{
-
+   
 }
 
 .about{
@@ -21,15 +22,26 @@ nav{
 }
 
 .contact {
-
+    
 }
 
 .main{
-
+    
 }
 
 .main-content{
-    
+        
+}
+
+footer{
+    background-color: #666666;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    clear: both;
+    font-style: italic;
+    padding: .1px;
+    border-top: 8px solid #4aaaa5;
 }
 
 h1{
@@ -37,3 +49,8 @@ h1{
     font-family: font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+img{
+       float: left;
+       margin-right: 20px;
+       margin-bottom: 20px;
+}
