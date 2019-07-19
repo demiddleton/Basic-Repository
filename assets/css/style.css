@@ -1,36 +1,21 @@
-body {
-    width: 960px;
-    background-color: #ffffff;
-    border-color: #dddddd;
-    color: #777777;
-    align-content: center;
-}
-header {
 
+header {
+    background-color:#ffffff;
+    border-color: #cccccc;
+    float: left;    
+    width: 960px;
 }
 
 nav{
-   
+    color: #777777;
+    clear: both;
 }
 
-.about{
-
-}
-
-.portfolio {
-
-}
-
-.contact {
-    
-}
-
-.main{
-    
-}
-
-.main-content{
-        
+body {
+    width: 960px;
+    border-color: #dddddd;
+    color: #777777;
+    margin: 0px 40px 0px 40px;
 }
 
 footer{
@@ -40,7 +25,7 @@ footer{
     text-align: center;
     clear: both;
     font-style: italic;
-    padding: .1px;
+    padding-top: .1px;
     border-top: 8px solid #4aaaa5;
 }
 
